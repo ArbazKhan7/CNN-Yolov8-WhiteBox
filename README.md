@@ -1,11 +1,9 @@
-# CNN-Yolov8-WhiteBox
-
 # 🧠 YOLOv8 Feature Map Visualizer – WhiteBox CNN
 
 **Explore the inner workings of YOLOv8!**  
 This interactive Streamlit app lets you upload an image and visualize feature maps from YOLOv8’s backbone, neck, and head — turning it from a black-box into a white-box CNN you can understand.
 
-![demo](https://github.com/your-username/your-repo-name/blob/main/assets/demo.gif)
+![demo](https://github.com/ArbazKhan7/CNN-Yolov8-WhiteBox/blob/main/assets/demo.gif)
 
 ---
 
@@ -35,5 +33,5 @@ This interactive Streamlit app lets you upload an image and visualize feature ma
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/yolov8-visualizer.git
+   git clone https://github.com/ArbazKhan7/CNN-Yolov8-WhiteBox.git
    cd yolov8-visualizer

@@ -1,7 +1,6 @@
 streamlit
 ultralytics
 torch
-torchvision
-matplotlib
-pillow
+opencv-python-headless
+Pillow
 plotly

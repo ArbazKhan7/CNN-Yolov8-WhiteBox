@@ -34,4 +34,4 @@ This interactive Streamlit app lets you upload an image and visualize feature ma
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/ArbazKhan7/CNN-Yolov8-WhiteBox.git
-   cd yolov8-visualizer
+   cd CNN-Yolov8-WhiteBox
